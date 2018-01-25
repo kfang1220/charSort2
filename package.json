@@ -1,0 +1,19 @@
+{
+  "name": "charsort2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kfang1220/charSort2.git"
+  },
+  "author": "kevin fang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kfang1220/charSort2/issues"
+  },
+  "homepage": "https://github.com/kfang1220/charSort2#readme"
+}
