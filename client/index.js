@@ -1,9 +1,7 @@
 //select our form and give it an action
 document.querySelector('#charSort').addEventListener('sort', event => {
    event.preventDefault();
-
    let userInput = document.querySelector('input[name=str]');
-   //let userResponse = document.querySelector('input[name=result]')
 
    //should use axios but trying fetch, directly off develop.moz for reference
 
